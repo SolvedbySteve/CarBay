@@ -55,4 +55,4 @@ $ npm run dev
   1. Better front end interactivity for the requirements in the smart contract backend. Currently, the submit button is not active if the requirements of the bid are not met. Someone could easily design JS functionality to improve the UI.
   2. More attractive HTML/CSS layout
 
-- Please reach out to either of us for any other feedback
+- Please reach out to any of us for any other feedback
