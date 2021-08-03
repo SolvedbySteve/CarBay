@@ -3,7 +3,7 @@
 ## Description
 This repository contains the Soldity, JavaScript, and HTML/CSS code for a Auction Decentralized Application for deployment on the Ethereum blockchain. Some of the deployment code was referenced from the [Ethereum Pet Shop tutorial](https://www.trufflesuite.com/tutorials/pet-shop). The concepts covered in the tutorial (adoption of pets from a shop) were extended to a different application space (auctions) with different functions.
 
-This DApp was presented as a final project for the Fintech Certification Coures, taken at the University of North Carolina at Charlotte in the Spring of 2021. The executive summary for the app, detailed instructions for launching and running the dApp are all included in the repository.
+This DApp was presented as a final project for the Fintech Certification Course, taken at the University of North Carolina at Charlotte in the Spring of 2021. The executive summary for the app, detailed instructions for launching and running the dApp are all included in the repository.
 
 ## Folder Structure
 The important folders in the directory include:
@@ -18,7 +18,7 @@ The important folders in the directory include:
 2. Run Ganache, and connect MetaMask to Ganache. Detailed instructions for this step can be found in Sections 3.1 and 3.2 in `documents/setup_instructions.pdf`
 3. Clone the repo
 ```
-$ git clone https://github.com/AkshataPuranik123/APS1050.git
+$ git clone https://github.com/SolvedbySteve/CarBay.git
 ```
 4. Migrate to root folder of the repo
 5. If you would like to reinitialize the app (if for example, you used this application in the past), you will need to delete any `.json` files in `build/contracts`
